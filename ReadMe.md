@@ -30,3 +30,9 @@ git add FILENAME ANOTHERFILENAME
 git commit -m "MESSAGE"
 ```
 -commits the stashed files to the repo, and adds the MESSAEGE that describd what was done
+
+## Other git things
+
+**.gitignore** is a file that tells git files/folder that are not to be a part of the repoditotry 
+.(that is - ignored when ading/committing')
+
