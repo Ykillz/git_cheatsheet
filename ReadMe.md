@@ -7,7 +7,7 @@ This is my git cheat sheet
 ```bash
 git init REPO-NAME
 ```bash
-- creates a repositrory called REPO-NAME
+-creates a repositrory called REPO-NAME
 
 This line will be deleted next
 
@@ -24,7 +24,7 @@ git shows
 ```bash
 git add FILENAME ANOTHERFILENAME
 ```
-- adds the file FILENAME amd ANOTHERFILENAME to the stash
+-adds the file FILENAME amd ANOTHERFILENAME to the stash
 ```
 
 git commit -m "MESSAGE"
