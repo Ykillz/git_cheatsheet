@@ -8,3 +8,8 @@ env
 
 # Comprehensive .gitignore found at:
 https://github.com/github/gitignore/blob/master/Python.gitignore
+
+```bash
+git log
+```
+show a hsitory of the commits amde to this point in time
