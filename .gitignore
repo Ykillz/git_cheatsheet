@@ -1,5 +1,10 @@
 __pycache__
 .idea
 .idea/*
+venv
+env
+.pytest_cache
+.coverahen 
 
-Thumbs
+# Comprehensive .gitignore found at:
+https://github.com/github/gitignore/blob/master/Python.gitignore
