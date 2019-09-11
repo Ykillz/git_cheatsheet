@@ -1,6 +1,7 @@
 # ReadMe.md
 
-This is my git cheat sheet
+This is my git cheat sheet. its my first cheat sheet!
+please feel free to give any corrections or additions
 
 ## Git commands
 
